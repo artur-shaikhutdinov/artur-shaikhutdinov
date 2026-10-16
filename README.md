@@ -1,5 +1,5 @@
 ## Моя активность за месяц 📈
-[![Artur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artur-shaikhutdinov&theme=react-dark)](https://github.com/artur-shaikhutdinov/artur-shaikhutdinov)
+[![Artur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artur-shaikhutdinov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **artur-shaikhutdinov/artur-shaikhutdinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
