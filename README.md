@@ -1,4 +1,5 @@
-## Hi there 👋
+## Моя активность за месяц 📈
+![GitHub Activity Graph](https://vercel.app?username=artur-shaikhutdinov&theme=react-light)
 
 <!--
 **artur-shaikhutdinov/artur-shaikhutdinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
