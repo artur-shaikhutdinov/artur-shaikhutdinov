@@ -1,6 +1,6 @@
 ## Моя активность за месяц 📈
 
-![GitHub Stats Extended](https://github-stats-extended.vercel.app/graph?username=artur-shaikhutdinov)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artur-shaikhutdinov&theme=react-dark)
 
 ![GitHub Stats Extended](https://github-stats-extended.vercel.app/api?username=artur-shaikhutdinov)
 
