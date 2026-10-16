@@ -1,8 +1,8 @@
 ## Моя активность за месяц 📈
 
-![Anurag's GitHub activity graph](https://github-readme-stats.vercel.app/graph?username=artur-shaikhutdinov)]
+![GitHub Stats Extended](https://github-stats-extended.vercel.app/graph?username=artur-shaikhutdinov)]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artur-shaikhutdinov)
+![GitHub Stats Extended](https://github-stats-extended.vercel.app/api?username=artur-shaikhutdinov)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=artur-shaikhutdinov)
 
