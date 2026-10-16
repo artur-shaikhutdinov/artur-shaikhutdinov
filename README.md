@@ -1,10 +1,10 @@
 ## Моя активность за месяц 📈
 
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=artur-shaikhutdinov)]
+![Anurag's GitHub activity graph](https://github-readme-stats.vercel.app/graph?username=artur-shaikhutdinov)]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artur-shaikhutdinov)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artur-shaikhutdinov)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=artur-shaikhutdinov)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=artur-shaikhutdinov)
 
 <!--
 **artur-shaikhutdinov/artur-shaikhutdinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
