@@ -1,6 +1,6 @@
 ## My stats
 <!--
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artur-shaikhutdinov&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)
 -->
 
 ![GitHub Stats Extended](https://github-stats-extended.vercel.app/api?username=artur-shaikhutdinov)
